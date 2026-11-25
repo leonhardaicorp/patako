@@ -1,0 +1,2 @@
+# Dependências iniciais mínimas.
+# Adicione bibliotecas conforme as decisões de arquitetura forem tomadas.
